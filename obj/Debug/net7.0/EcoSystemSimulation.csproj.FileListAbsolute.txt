@@ -1,0 +1,15 @@
+C:\Users\milos\Documents\Git\EcoSystemSimulation\bin\Debug\net7.0\EcoSystemSimulation.exe
+C:\Users\milos\Documents\Git\EcoSystemSimulation\bin\Debug\net7.0\EcoSystemSimulation.deps.json
+C:\Users\milos\Documents\Git\EcoSystemSimulation\bin\Debug\net7.0\EcoSystemSimulation.runtimeconfig.json
+C:\Users\milos\Documents\Git\EcoSystemSimulation\bin\Debug\net7.0\EcoSystemSimulation.dll
+C:\Users\milos\Documents\Git\EcoSystemSimulation\bin\Debug\net7.0\EcoSystemSimulation.pdb
+C:\Users\milos\Documents\Git\EcoSystemSimulation\obj\Debug\net7.0\EcoSystemSimulation.csproj.AssemblyReference.cache
+C:\Users\milos\Documents\Git\EcoSystemSimulation\obj\Debug\net7.0\EcoSystemSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milos\Documents\Git\EcoSystemSimulation\obj\Debug\net7.0\EcoSystemSimulation.AssemblyInfoInputs.cache
+C:\Users\milos\Documents\Git\EcoSystemSimulation\obj\Debug\net7.0\EcoSystemSimulation.AssemblyInfo.cs
+C:\Users\milos\Documents\Git\EcoSystemSimulation\obj\Debug\net7.0\EcoSystemSimulation.csproj.CoreCompileInputs.cache
+C:\Users\milos\Documents\Git\EcoSystemSimulation\obj\Debug\net7.0\EcoSystemSimulation.dll
+C:\Users\milos\Documents\Git\EcoSystemSimulation\obj\Debug\net7.0\refint\EcoSystemSimulation.dll
+C:\Users\milos\Documents\Git\EcoSystemSimulation\obj\Debug\net7.0\EcoSystemSimulation.pdb
+C:\Users\milos\Documents\Git\EcoSystemSimulation\obj\Debug\net7.0\EcoSystemSimulation.genruntimeconfig.cache
+C:\Users\milos\Documents\Git\EcoSystemSimulation\obj\Debug\net7.0\ref\EcoSystemSimulation.dll
